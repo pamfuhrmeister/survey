@@ -1,0 +1,12 @@
+name: meeting_survey
+title: meeting_survey
+username: pamfuhrmeister
+account: pamfuhrmeister
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9053860
+bundleId: 7188308
+url: https://pamfuhrmeister.shinyapps.io/meeting_survey/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
